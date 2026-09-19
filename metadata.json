@@ -1,0 +1,5 @@
+{
+  "name": "Space Hub",
+  "description": "A real-time space content platform with AI-powered galaxy classification and NASA APOD integration.",
+  "requestFramePermissions": []
+}
